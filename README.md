@@ -1,4 +1,7 @@
-# Hanier Valencia Valencia
+  <img width="805" height="478" alt="image" src="https://github.com/user-attachments/assets/e47c2ef9-9b14-4f8c-ad0b-c535669fa4c0" />
+
+
+# 👋 ¡Hola, soy Hanier! 
 ## QA Engineer & Cybersecurity Enthusiast
 
 Profesional en **Ingeniería de Sistemas** con una sólida base tecnológica y un enfoque especializado en el **Aseguramiento de Calidad (QA)** y la **Ciberseguridad**. Especializado en la ejecución de casos de prueba, reporte de defectos y testing de APIs, integrando una mentalidad proactiva para garantizar productos funcionales y seguros.
