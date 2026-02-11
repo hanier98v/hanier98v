@@ -1,4 +1,5 @@
-  <img width="805" height="478" alt="image" src="https://github.com/user-attachments/assets/e47c2ef9-9b14-4f8c-ad0b-c535669fa4c0" />
+<img width="936" height="468" alt="image" src="https://github.com/user-attachments/assets/b2c44aea-ed46-4581-99f0-a4c0ac9c28ab" />
+
 
 
 # 👋 ¡Hola, soy Hanier! 
